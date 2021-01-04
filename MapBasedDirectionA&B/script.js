@@ -2,8 +2,8 @@
     var map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/mapbox/streets-v11',
-        center: [-79.4512, 43.6568],
-        zoom: 13
+        center: [12.88539,50.94771],
+        zoom: 8
     });
 
     map.addControl(
