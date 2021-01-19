@@ -1,0 +1,52 @@
+var stores = {
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "phoneFormatted": " +(49) 341 97108",
+                "phone": " 04934197108",
+                "address": "Ritterstraße 26 ·  Leipzig",
+                "city": "Leipzig",
+                "country": "Deutschland",
+                "crossStreet": "Ritterstraße",
+                "postalCode": "04109",
+                "state": "Saxony",
+                "namePOI": "Leipzig University"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        12.378501892089844,
+                        51.33881617294308]
+
+            }
+
+    },
+        {
+            "type": "Feature",
+            "properties": {
+                "phoneFormatted": "+(49) 371 5310",
+                "phone": " +493715310",
+                "address": "Straße der Nationen 62 · 09111 Chemnitz",
+                "city": "Chemnitz",
+                "country": "Deutschland",
+                "crossStreet": "Straße der Nationen",
+                "postalCode": "09166",
+                "state": "Saxony",
+                "namePOI": "Chemnitz University"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        12.930564880371094,
+                        50.815941049444774]
+
+            }
+
+            }
+
+
+
+
+            ]
+};
