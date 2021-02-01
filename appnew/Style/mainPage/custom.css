@@ -87,7 +87,7 @@ header h3 {
 
 header hgroup {
 
-    width: 300px;
+    width: 400px;
 
     float: left;
 
@@ -95,9 +95,9 @@ header hgroup {
 
 header nav {
 
-    float: right;
+    float: left;
 
-    width: 600px;
+    width: 800px;
 
 }
 
