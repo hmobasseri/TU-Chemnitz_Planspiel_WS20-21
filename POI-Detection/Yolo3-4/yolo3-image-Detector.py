@@ -7,7 +7,7 @@ print("Starting")
 
 # Reading image with OpenCV library
 # In this way image is opened already as numpy array
-# OpenCV  reads images in BGR format by default,
+
 
 # image_bgr = cv2.imread('images/maxresdefault.jpg')
 # image_bgr = cv2.imread('images/dogs-cars.jpg')
