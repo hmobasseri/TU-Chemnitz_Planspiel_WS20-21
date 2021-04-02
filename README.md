@@ -45,13 +45,15 @@
     <p>The most important part for our company is detecting POI in a dynamic way, so we used these tools and algorithms</p>
     <h4>image innotation and labling</h4>
     <a href="https://github.com/tzutalin/labelImg">image label tool</a>
-    $ pip -h </br>
-    $ conda install pyqt=5 </br>
-    $ conda install -c anaconda lxml </br>
-    $ pip3 install pipenv </br>
-    $ pipenv run pip install pyqt5==5.12.1 lxml </br>
-    $ pipenv run make qt5py3 </br>
-    $ pipenv run python3 labelImg.py </br>
+    <div>
+    $ pip -h <br>
+    $ conda install pyqt=5 <br>
+    $ conda install -c anaconda lxml <br>
+    $ pip3 install pipenv <br>
+    $ pipenv run pip install pyqt5==5.12.1 lxml <br>
+    $ pipenv run make qt5py3 <br>
+    $ pipenv run python3 labelImg.py <br>
+    </div>
     <p>In the repository in the directory POI-Detection you can find:</p>
     <ul>
     <li>Train-Class(the calsses we created for annotation and labling)</li>
