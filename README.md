@@ -32,3 +32,13 @@
     <li>Weather</li>
 </ul>
 </div>
+<div>
+    <p>The ADM-Tech is focused on detecting POI dynamically, in this case, we provided some feature for detecting all POI in different way:</p>
+    <ul>
+    <li>POI-GeoJSON</li>
+    <li>POI-MAP</li>
+    <li>POI-Search</li>
+    <li>POI-Detection(Dynamicly)</li>
+    </ul>
+</div>
+
