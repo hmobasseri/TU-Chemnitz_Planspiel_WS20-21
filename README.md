@@ -113,6 +113,7 @@ $ python detect.py --source data/images --weights yolov5s.pt --conf 0.25
 </div>
 
 <div>
+<br>
 <h1>Training</h1>
                       
 $python yolo5-main.py --data custom_data_Karl-Marx.yaml --cfg yolov5s.yaml --weights '' --batch-size 64
@@ -130,7 +131,7 @@ $python yolo5-main.py --data custom_data_Karl-Marx.yaml --cfg yolov5s.yaml --wei
 <div>
 <h1>Contact Us</h1>
                       
-<h3>info@adm-tech.de</h3>
-<h4>© Copyright 2020-21  ADM Tech All Rights Reserved</h4>
+<h4><a href="mailto:'info@adm-tech.de'">info@adm-tech.de</a></h4>
+<h5>© Copyright 2020-21  ADM Tech All Rights Reserved</h5>
 </div>
  
