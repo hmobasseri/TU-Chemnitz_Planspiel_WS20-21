@@ -115,5 +115,5 @@ $ python detect.py --source data/images --weights yolov5s.pt --conf 0.25
 <div>
 <h1>Training</h1>
                       
-python yolo5-main.py --data custom_data_Karl-Marx.yaml --cfg yolov5s.yaml --weights '' --batch-size 64
+$python yolo5-main.py --data custom_data_Karl-Marx.yaml --cfg yolov5s.yaml --weights '' --batch-size 64
 </div>
