@@ -2,7 +2,7 @@
   <img src="https://www.adm-tech.de/images/logoadm.png">
 </div>
 <div align="center">
-  <h1>ADM-Tech</h1>
+  <h1><strong>ADM-Tech</strong></h1>
   <br/>
   <h2>SmartRail Application</h2>
 </div>
@@ -15,7 +15,7 @@
 <p>For using our service, you can go to the main web site and click on services.</p>
 <p>The smartRail application has 3 versions and during the planspiel we added more features,  the app has been updated it regularly</p>
 
-<h3> or You can click on each version listed below</h3>
+<h5> or You can click on each version listed below</h5>
 <ul>
     <li><a href="https://www.adm-tech.de/v1">Version 1</a></li>
     <li><a href="https://www.adm-tech.de/v2">Version 2</a></li>
