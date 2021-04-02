@@ -63,7 +63,14 @@
      <li>images:we provided all images for feeding ML</li>
      </ul>
     </li>
-    <li>POI-Search</li>
+    <li>Deep-Learning (we provided code for object detections)</li>
+    <li>YOLO 3 , 4 , 5
+    <ul>
+     <li>Image Detection</li>
+     <li>Video Detection</li>
+     <li>Dynamic Camera Detection</li>
+     </ul>
+     </li>
     </ul>
 </div>
 
