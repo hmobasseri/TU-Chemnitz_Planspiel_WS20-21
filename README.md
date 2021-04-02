@@ -84,8 +84,29 @@ $ pip install pillow jupyter lxml <br>
 $ pip install matplotlib <br>
 $ pip install pandas opencv-python <br>
     
-      
-    
 </div>
 
+<div>
+    
+<h4>YOLO 5</h4>
+<a href="https://github.com/ultralytics/yolov5">YOLO5</a>
+<h2>Requirements</h2>
+
+<p>Python 3.x  [requirements.txt] <br>
+$ pip install -r requirements.txt
+</p>
+
+</div>
+
+<div>
+    
+<h1>detection</h1>
+
+detect.py runs inference on a many of sources <br>
+$ python detect.py --source 0  # webcam <br>
+                            file.jpg  # image <br>
+                            file.mp4  # video 
+                            
+
+</div>
 
