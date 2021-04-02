@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <h1><strong>ADM-Tech</strong></h1>
-  <br/>
+  
   <h2>SmartRail Application</h2>
 </div>
 
@@ -20,5 +20,15 @@
     <li><a href="https://www.adm-tech.de/v1">Version 1</a></li>
     <li><a href="https://www.adm-tech.de/v2">Version 2</a></li>
     <li><a href="https://www.adm-tech.de/v3">Version 3</a></li>
+</ul>
+</div>
+<div>
+    <p>For the first step, we widely used Map API and GPS for finding locations. All code here has been written in JavaScript, and HTML5, and CSS3 and each feature has a particular directory and all code has been found in it.all features are listed below:</p>
+    <ul>
+    <li>Locate The Train</li>
+    <li>Search By Name</li>
+    <li>Direction</li>
+    <li>Distance</li>
+    <li>Weather</li>
 </ul>
 </div>
