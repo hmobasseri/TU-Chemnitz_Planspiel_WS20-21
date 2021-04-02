@@ -102,12 +102,18 @@ $ pip install -r requirements.txt
     
 <h1>detection</h1>
 <p>
-detect.py runs inference on a many of sources <br>
-$ python detect.py --source 0  # webcam <br>
+yolo5-detect.py runs inference on a many of sources <br>
+$ python yolo5-detect.py --source 0  # webcam <br>
                &nbsp;&nbsp;            file.jpg  # image <br>
                &nbsp;&nbsp;             file.mp4  # video 
 </p>
-                            
+<br>
+$ python detect.py --source data/images --weights yolov5s.pt --conf 0.25                        
 
 </div>
 
+<div>
+<h1>Training</h1>
+                      
+python yolo5-main.py --data custom_data_Karl-Marx.yaml --cfg yolov5s.yaml --weights '' --batch-size 64
+</div>
