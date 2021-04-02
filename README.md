@@ -10,3 +10,15 @@
 <div>
     Main Page of the web site <a href="https://www.adm-tech.de">https://www.adm-tech.de</a>
 </div>
+<div>
+    
+<p>For using our service, you can go to the main web site and click on services.</p>
+<p>The smartRail application has 3 versions and during the planspiel we added more features,  the app has been updated it regularly</p>
+
+<h3> or You can click on each version listed below</h3>
+<ul>
+    <li><a href="https://www.adm-tech.de/v1">Version 1</a></li>
+    <li><a href="https://www.adm-tech.de/v2">Version 2</a></li>
+    <li><a href="https://www.adm-tech.de/v3">Version 3</a></li>
+</ul>
+</div>
