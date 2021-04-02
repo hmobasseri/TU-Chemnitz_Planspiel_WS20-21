@@ -101,11 +101,12 @@ $ pip install -r requirements.txt
 <div>
     
 <h1>detection</h1>
-
+<p>
 detect.py runs inference on a many of sources <br>
 $ python detect.py --source 0  # webcam <br>
-              &nbsp  &nbsp            file.jpg  # image <br>
+               &nbsp&nbsp            file.jpg  # image <br>
                &nbsp&nbsp             file.mp4  # video 
+</p>
                             
 
 </div>
