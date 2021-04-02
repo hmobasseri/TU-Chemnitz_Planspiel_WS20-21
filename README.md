@@ -74,7 +74,7 @@
     </ul>
 </div>
 <div>
-    <h1>Install</h1>
+    <h2>Install TensorFlow and other tools</h2>
   
 $ pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.12.0-py3-none-any.whl <br>
 $ pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.0.0-py3-none-any.whl <br>
@@ -90,7 +90,7 @@ $ pip install pandas opencv-python <br>
     
 <h4>YOLO 5</h4>
 <a href="https://github.com/ultralytics/yolov5">YOLO5</a>
-<h2>Requirements</h2>
+<h2>Requirements for YOLO5</h2>
 
 <p>Python 3.x  [requirements.txt] <br>
 $ pip install -r requirements.txt
