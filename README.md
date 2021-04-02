@@ -74,23 +74,18 @@
     </ul>
 </div>
 <div>
-    ## Install
-    <div align="center">
-  <img src="https://www.tensorflow.org/images/tf_logo_social.png">
-</div>
-    $ pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.12.0-py3-none-any.whl <br>
-    $ pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.0.0-py3-none-any.whl <br>
-    $ pip install --upgrade --ignore-installed tensorflow-gpu <br>
-    $ conda install -c anaconda protobuf <br>
-    $ pip install pillow jupyter lxml <br>
-    $ pip install matplotlib <br>
-    $ pip install pandas opencv-python <br>
+    <h1>Install</h1>
+  
+$ pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.12.0-py3-none-any.whl <br>
+$ pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.0.0-py3-none-any.whl <br>
+$ pip install --upgrade --ignore-installed tensorflow-gpu <br>
+$ conda install -c anaconda protobuf <br>
+$ pip install pillow jupyter lxml <br>
+$ pip install matplotlib <br>
+$ pip install pandas opencv-python <br>
     
-    set PYTHONPATH=C:\Users\Hadi\Desktop\project\models;C:\Users\Hadi\Desktop\project\models\research;C:\Users\Hadi\Desktop\project\models\research\slim <br>
-    
-    set PATH=%PATH%;PYTHONPATH <br>
-    
-    
+      
     
 </div>
+
 
