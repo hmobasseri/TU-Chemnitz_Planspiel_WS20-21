@@ -117,3 +117,20 @@ $ python detect.py --source data/images --weights yolov5s.pt --conf 0.25
                       
 $python yolo5-main.py --data custom_data_Karl-Marx.yaml --cfg yolov5s.yaml --weights '' --batch-size 64
 </div>
+
+<div>
+<h1>About As</h1>
+                      
+<ul>
+    <li>Mohammadhadi Mobasseri(CTO)</li>
+    <li>Ali Ahmad Wali Zada(CEO)</li>
+    <li>Demas Ebhodaghe(CFO)</li>
+</ul>
+</div>
+<div>
+<h1>Contact Us</h1>
+                      
+<h3>info@adm-tech.de</h3>
+<h4>© Copyright 2020-21  ADM Tech All Rights Reserved</h4>
+</div>
+ 
