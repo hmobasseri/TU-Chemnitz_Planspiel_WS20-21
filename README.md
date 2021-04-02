@@ -33,12 +33,33 @@
 </ul>
 </div>
 <div>
-    <p>The ADM-Tech is focused on detecting POI dynamically, in this case, we provided some feature for detecting all POI in different way:</p>
+    <p>The ADM-Tech is focused on detecting POI dynamically, in this case, we provided some feature for detecting all POI in a different way:</p>
     <ul>
     <li>POI-GeoJSON</li>
     <li>POI-MAP</li>
     <li>POI-Search</li>
-    <li>POI-Detection(Dynamicly)</li>
+    <li>POI-Detection(Dynamiclly)</li>
     </ul>
+</div>
+<div>
+    <p>The most important part for our company is detecting POI in a dynamic way, so we used these tools and algorithms</p>
+    <h4>image innotation and labling</h4>
+    <a href="https://github.com/tzutalin/labelImg">image label tool</a>
+    $ pip -h
+    $ conda install pyqt=5
+    $ conda install -c anaconda lxml
+    $ pip3 install pipenv
+    $ pipenv run pip install pyqt5==5.12.1 lxml
+    $ pipenv run make qt5py3
+    $ pipenv run python3 labelImg.py
+    <p>In the repository in the directory POI-Detection you can find:</p>
+    <li>Train-Class(the calsses we created for annotation and labling)</li>
+    <li>model-borderBox-annotation
+     <ul>
+     <li>labels : There are all lables for all images that has been annotated</li>
+     <li>images:we provided all images for feeding ML</li>
+     </ul>
+    </li>
+    <li>POI-Search</li>
 </div>
 
